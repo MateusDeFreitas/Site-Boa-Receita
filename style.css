@@ -45,6 +45,7 @@ h3 {
     font-size: 1em;
 }
 p {
+    color: black;
     text-align: justify;
 }
 li > a {
