@@ -75,6 +75,6 @@ footer a {
     font-weight: 600;
 }
 footer a:hover {
-    color: rgb(3, 1, 29);
+    color: white;
     text-decoration: underline;
 }
