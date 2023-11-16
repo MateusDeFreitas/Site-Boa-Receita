@@ -60,7 +60,6 @@ img.fotos {
     max-width: 800px;
 }
 footer {
-    color: white;
     background-color: rgb(83, 75, 75);
     margin: 0px;
     margin-top: 30px;
@@ -68,6 +67,7 @@ footer {
     padding-top: 7px;
 }
 footer > p {
+    color: white;
     text-align: center;
 }
 footer a {
